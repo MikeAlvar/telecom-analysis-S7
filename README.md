@@ -31,11 +31,11 @@ Análisis ejecutivo: interpretación de los principales patrones encontrados.
 
 Cómo ejecutar el notebook
 
-El proyecto puede reproducirse desde el repositorio de GitHub utilizando el enlace fjaskfj:
+El proyecto puede reproducirse desde el repositorio de GitHub utilizando el enlace (https://github.com/MikeAlvar/telecom-analysis-S7):
 
-Abrir el enlace fjaskfj en GitHub.
+Abrir el enlace telecom-analysis-S7 en GitHub.
 
-Descargar o abrir el notebook S7 Version-Estudiante-Project-ConnectaTel (1).ipynb.
+Descargar o abrir el notebook telecom-analysis-S7.ipynb.
 
 Verificar que los tres datasets estén disponibles.
 
