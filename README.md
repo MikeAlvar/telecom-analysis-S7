@@ -51,6 +51,6 @@ Las rutas utilizadas originalmente son:
 
 Reproducción
 
-Para reproducir el análisis, acceder al repositorio mediante el enlace fjaskfj, disponer del notebook y los tres datasets, abrir el notebook en Colab o Jupyter y ejecutar las celdas desde el inicio y en orden.
+Para reproducir el análisis, acceder al repositorio mediante el enlace (https://github.com/MikeAlvar/telecom-analysis-S7), disponer del notebook y los tres datasets, abrir el notebook en Colab o Jupyter y ejecutar las celdas desde el inicio y en orden.
 
 Durante la ejecución se realizan la limpieza de datos, el tratamiento de nulos, la agregación del uso, el análisis de outliers y la segmentación de clientes.
